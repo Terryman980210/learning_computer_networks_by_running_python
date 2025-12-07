@@ -19,8 +19,8 @@
 ## 学習ログ
 
 ### 2025/12/06
-- 第1章のNodeとLinkについて理解
+- 第1章、Node・Linkについて理解
 
 ### 2025/12/07
-- 第1章のPacketとNetworkGraphについて理解
-- 第2章の
+- 第1章、Packetについて理解し、NetworkGraphによる可視化を学んだ
+- 第2章、時間の概念を導入したNode・Link・Packetについて理解し、NetworkEventSchedulerによる可視化・ログ取得を学んだ
