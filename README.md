@@ -24,3 +24,6 @@
 ### 2025/12/07
 - 第1章、Packetについて理解し、NetworkGraphによる可視化を学んだ
 - 第2章、時間の概念を導入したNode・Link・Packetについて理解し、NetworkEventSchedulerによる可視化・ログ取得を学んだ
+
+### 2025/12/09
+- 第3章、Switchについて理解
